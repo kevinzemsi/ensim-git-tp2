@@ -53,3 +53,10 @@ h1, h2, h3 {
 #logo-ensim {
 	filter: drop-shadow(0 0 0.75rem #abfdff);
 }
+
+
+
+a:hover{
+	font-size: 15pt;
+	color: #00f4ff;
+}
